@@ -7,6 +7,7 @@ This is a project template for [Svelte 3](https://svelte.dev) apps. It adds Type
 Typescript package is the official svelte-ts version. 
 
 If you're a VS Code user, make sure you're using the (new) [official extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode), which replaces the popular extension by James Birtles.  
+
 \#\# Create a new project
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
