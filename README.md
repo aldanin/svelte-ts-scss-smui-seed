@@ -13,7 +13,7 @@ If you're a VS Code user, make sure you're using the (new) [official extension](
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit aldanin/svelte-seed
+npx degit aldanin/aldanin/svelte-ts-scss-smui-seed
 ```
 
 To use the above you will need to install [degit](https://github.com/Rich-Harris/degit):
@@ -25,7 +25,7 @@ npm install -g degit
 You can also clone directly:
 
 ```bash
-git clone https://github.com/aldanin/svelte-seed.git
+git clone https://github.com/aldanin/aldanin/svelte-ts-scss-smui-seed.git
 ```
 
 
