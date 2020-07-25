@@ -2,11 +2,11 @@
 
 This is a project template for [Svelte 3](https://svelte.dev) apps. It adds Typescript, SCSS and SMUI support to [https://github.com/sveltejs/template](https://github.com/sveltejs/template).  
 
-**Typescript support**  
+\#Typescript support 
 
 Typescript package is the official svelte-ts version. 
 
-If you're a VS Code user, make sure you're using the (new) [official extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode), which replaces the popular extension by James Birtles.
+If you're a VS Code user, make sure you're using the (new) [official extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode), which replaces the popular extension by James Birtles.  
 \#\# Create a new project
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
