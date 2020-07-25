@@ -1,14 +1,14 @@
-\# Svelte TypeScript/SASS/SMUI template
+# Svelte TS/SASS/SMUI template
 
 This is a project template for [Svelte 3](https://svelte.dev) apps. It adds Typescript, SCSS and SMUI support to [https://github.com/sveltejs/template](https://github.com/sveltejs/template).  
 
-\#Typescript support 
+## Typescript support 
 
 Typescript package is the official svelte-ts version. 
 
 If you're a VS Code user, make sure you're using the (new) [official extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode), which replaces the popular extension by James Birtles.  
 
-\#\# Create a new project
+## Create a new project
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -32,7 +32,7 @@ git clone https://github.com/aldanin/svelte-seed.git
 
 _Note that you will need to have [Node.js](https://nodejs.org) installed._
 
-\#\# Get started
+## Get started
 
 Install the dependencies...
 
@@ -48,4 +48,4 @@ yarn dev
 
 Navigate to [localhost:8000](http://localhost:8000). You should see your app running. Edit a component file in `src` and save it. The page will automatically update with your changes.
 
-\# For additional information please visit [github.com/will-wow/svelte-typescript-template](https://github.com/will-wow/svelte-typescript-template).
+#### For additional information please visit [https://github.com/sveltejs/template](https://github.com/sveltejs/template).
