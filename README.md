@@ -1,4 +1,4 @@
-# Svelte TS/SASS/SMUI template
+# Svelte TS/SCSS/SMUI template
 
 This is a project template for [Svelte 3](https://svelte.dev) apps. It adds Typescript, SCSS and SMUI support to [https://github.com/sveltejs/template](https://github.com/sveltejs/template).  
 
